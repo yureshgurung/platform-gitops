@@ -1,5 +1,7 @@
+# Platform GitOps
+
+```text
 platform-gitops/
-│
 ├── argocd/
 │   ├── projects/
 │   │   ├── platform.yaml
